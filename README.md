@@ -882,3 +882,7 @@ Three wise men of Gotham,
 They went to sea in a bowl,
 And if the bowl had been stronger
 My song would have been longer.
+
+## Hello!
+My name is Mike and Im very grateful to you for this course.
+![MikeYatsenko] (https://media.giphy.com/media/CytTSjfy6XHjO/giphy.gif)
